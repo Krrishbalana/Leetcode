@@ -1,4 +1,4 @@
-// soltion of two sum problem 
+//solution of the two-sum problem 
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
