@@ -1,4 +1,5 @@
 //brute force approach
+
 class Solution {
 public:
     int maxArea(vector<int>& height) {
